@@ -5,12 +5,12 @@
 -->
 
 How to find me
-- 📫 GitHub Repositories:
-  - https://github.com/mengwangk
-  - https://github.com/alpha2phi
-  - https://github.com/alpha2phi-platform
 - 📫 Medium:
   - :bulb: https://medium.com/@alpha2phi
+- 📫 GitHub Repositories:
+  - https://github.com/alpha2phi
+  - https://github.com/mengwangk
+  - https://github.com/alpha2phi-platform
 - 📫 Other Projects:
   - :bulb: http://platform.twit88.com/
 
